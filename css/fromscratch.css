@@ -1,0 +1,46 @@
+ body {
+    background-image: url('../assets/img/backgroundpalm.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+            background-color: olive;
+            color: white;
+            /*text color*/
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        h1 {
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+        }
+
+        h5 {
+            text-align: center;
+        }
+
+        a {
+            color: aqua;
+        }
+
+        a:visited {
+            color: purple;
+        }
+
+        img {
+            border: 2px solid green;
+            padding: 3px;
+            margin: 5px;
+            display: block;
+            /* centers stuff*/
+            margin: auto;
+        }
+        .cool{
+            color: yellowgreen;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: larger;
+        }
+        .cutestyle{
+            color: lightsalmon;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+            font-size: larger;
+        }
+        

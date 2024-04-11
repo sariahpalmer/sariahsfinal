@@ -1,0 +1,49 @@
+
+/*positioningstyles*/
+.common{
+    position: absolute;
+    border: 3px solid black; 
+    background-color: tan;
+}
+.bottom{
+position: fixed;
+bottom: 0px;
+left: 0px;
+right: 0px;
+text-align: center;
+font-style: italic;
+font-style: small;
+background-color: lightcyan;
+}
+.top{
+top: 0px;
+left: 0px;
+right: 0px;
+text-align: center;
+size: large;
+z-index: 1;
+size: large;
+}
+.content{
+    top: 100 px;
+    left: 0px;
+    right: 0px; 
+    height: 100%;
+}
+.nav{
+    position: relative;
+    float: right;
+    color: white ;
+    border: 2px solid black; 
+    background-color: yellow;
+    size: larger;
+    z-index: 1;
+}
+.makecenter{
+    size: larger;
+    color: wheat;
+    position: fixed;
+    z-index: 1;
+
+}
+
